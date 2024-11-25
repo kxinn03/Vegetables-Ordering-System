@@ -1,0 +1,7 @@
+﻿  LeeKarXinFinal.c
+C:\Users\user\Desktop\Diploma Y1\Y1S1\progamming\assingnment\LeeKarXinFinal.c\LeeKarXinFinal.c\LeeKarXinFinal.c(30,9): warning C4013: 'system' undefined; assuming extern returning int
+C:\Users\user\Desktop\Diploma Y1\Y1S1\progamming\assingnment\LeeKarXinFinal.c\LeeKarXinFinal.c\LeeKarXinFinal.c(100,16): warning C4013: 'isdigit' undefined; assuming extern returning int
+C:\Users\user\Desktop\Diploma Y1\Y1S1\progamming\assingnment\LeeKarXinFinal.c\LeeKarXinFinal.c\LeeKarXinFinal.c(116,30): warning C4013: 'validatePhoneNumber' undefined; assuming extern returning int
+C:\Users\user\Desktop\Diploma Y1\Y1S1\progamming\assingnment\LeeKarXinFinal.c\LeeKarXinFinal.c\LeeKarXinFinal.c(89,19): warning C4101: 'tax': unreferenced local variable
+C:\Users\user\Desktop\Diploma Y1\Y1S1\progamming\assingnment\LeeKarXinFinal.c\LeeKarXinFinal.c\LeeKarXinFinal.c(87,58): warning C4101: 'opt': unreferenced local variable
+  LeeKarXinFinal.c.vcxproj -> C:\Users\user\Desktop\Diploma Y1\Y1S1\progamming\assingnment\LeeKarXinFinal.c\Debug\LeeKarXinFinal.c.exe
